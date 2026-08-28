@@ -16,6 +16,7 @@ Python · FastAPI · SQLite/PostgreSQL · REST/SOAP APIs · WordPress/WooCommerc
 
 ## Public projects
 
+- [shoper-parcels-tracking](https://github.com/adamimielski/shoper-parcels-tracking) — add carrier tracking numbers to Shoper orders via the REST WebAPI (`parcels` resource), single file, no dependencies. Verified on a live store.
 - [klon-ai-email-agent](https://github.com/adamimielski/klon-ai-email-agent) — AI agent that drafts email replies in a company's own voice, with human review, playbooks and RAG over past answers. Demo mode with synthetic data.
 
 Client work lives in private repositories. Case studies (in Polish): [ecomflowlab.pl/realizacje](https://ecomflowlab.pl/realizacje/).
